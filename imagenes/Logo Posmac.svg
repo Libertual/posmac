@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3792"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="/home/libertual/Imágenes/POSMAC/tarjeta Posmac.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="Logo Posmac.svg">
+  <defs
+     id="defs3794" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="480.9327"
+     inkscape:cy="365.6812"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3797">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#323232;stroke-width:7;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3755"
+       width="463.91922"
+       height="148.5621"
+       x="76.430946"
+       y="426.65256" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:7;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3757"
+       width="148.57143"
+       height="148.57143"
+       x="540.71198"
+       y="426.64789" />
+    <text
+       xml:space="preserve"
+       style="font-size:65.82097626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Callie Hand;-inkscape-font-specification:Callie Hand Bold"
+       x="255.0587"
+       y="615.85522"
+       id="text3766"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.1604413,0,-0.36543302,0.86174113,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3768"
+         x="255.0587"
+         y="615.85522"
+         style="font-size:109.70161438px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Set Fire to the Rain;-inkscape-font-specification:Set Fire to the Rain">Posmac</tspan></text>
+    <path
+       transform="translate(59.283357,386.64789)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3078"
+       sodipodi:cx="561.13977"
+       sodipodi:cy="115.6293"
+       sodipodi:rx="43.941635"
+       sodipodi:ry="45.456863"
+       d="m 605.08141,115.6293 a 43.941635,45.456863 0 1 1 -87.88327,0 43.941635,45.456863 0 1 1 87.88327,0 z" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:3.66014409;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3080"
+       sodipodi:cx="566.69556"
+       sodipodi:cy="116.13438"
+       sodipodi:rx="25.253813"
+       sodipodi:ry="25.75889"
+       d="m 591.94937,116.13438 a 25.253813,25.75889 0 1 1 -50.50763,0 25.253813,25.75889 0 1 1 50.50763,0 z"
+       transform="matrix(1.3648306,0,0,1.3673034,-153.13226,343.36968)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4325"
+       width="48.234783"
+       height="18.687822"
+       x="581.84784"
+       y="492.48514" />
+  </g>
+</svg>
